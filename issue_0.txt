@@ -1,0 +1,3 @@
+[garagenclown]
+Aufwand 30 Minuten;
+Dokumentation Anforderungen, Ist_Zustand und Organisation.
